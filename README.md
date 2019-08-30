@@ -3,6 +3,7 @@
 Fernando de Souza Franco
 RA 1900519
 
+<<<<<<< HEAD
 
 ferfranco@brspferfranco MINGW64 /c/Faculdade/Gestao de projetos/Aula_04
 $ git clone https://github.com/Fernando-Franco/Aula04-C2.git
@@ -97,3 +98,6 @@ From https://github.com/Fernando-Franco/Aula04-C2
  * [new branch]      aula04_facth -> origin/aula04_facth
 
 ferfranco@brspferfranco MINGW64 /c/Faculdade/Gestao de projetos/Aula_04/aula04-c2 (aula04)
+=======
+Meu primeiro commit
+>>>>>>> 3d90f8006c9dd3e4bd513839aea2c2e144658bf3
